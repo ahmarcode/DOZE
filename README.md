@@ -82,6 +82,7 @@ DOZE/
 ├── .gitignore
 ├── Canvas/
 ├── load.mp4
+├── LICENSE
 └── README.md
 ```
 
