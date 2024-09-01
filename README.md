@@ -1,5 +1,3 @@
-Here's the updated README with the clarification that JavaScript manages all HTML5-related functionality and interactions:
-
 ---
 
 # Doze Studio 
@@ -101,5 +99,3 @@ Contributions are welcome! If you have any improvements or suggestions, feel fre
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-Feel free to adjust any details based on your specific implementation and needs!
